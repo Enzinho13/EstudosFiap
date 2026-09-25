@@ -20,7 +20,8 @@ Aqui você encontrará:
 
 ```text
 .
-├── 📁 python/   # Scripts, desafios e exercícios em Python
+├── 📁 python-fundamentals/   # Scripts, desafios e exercícios em Python
+├── 📁 EDGE/ #
 ├── 📁 web-development/       # Projetos e laboratórios web
 ├── 📁 fiap-challenges/        # Projetos integradores e desafios da faculdade
 └── README.md                  # Apresentação do repositório
